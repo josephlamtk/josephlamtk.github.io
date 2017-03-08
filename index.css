@@ -1,5 +1,5 @@
 body{
-    background-image: url(../blog/MyBlog/Chair.jpg);
+    background-image: url(../MyBlog/Chair.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -10,7 +10,7 @@ body{
 }
 
 #img1{
-    background-image: url(../blog/MyBlog/_1.jpg);
+    background-image: url(../MyBlog/_1.jpg);
     background-color: transparent;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -18,14 +18,14 @@ body{
 }
 
 #img2{
-    background-image: url(../blog/MyBlog/_2.png);
+    background-image: url(../MyBlog/_2.png);
     background-color: transparent;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 #img3{
-    background-image: url(../blog/MyBlog/_3.png);
+    background-image: url(../MyBlog/_3.png);
     background-color: transparent;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -33,7 +33,7 @@ body{
 }
 
 #img4{
-    background-image: url(../blog/MyBlog/_4.png);
+    background-image: url(../MyBlog/_4.png);
     background-color: transparent;
     background-size: 100% 100%;
     background-repeat: no-repeat;
