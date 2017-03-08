@@ -95,7 +95,5 @@ html{
     #img1, img3 {
         background-attachment: scroll;
     }
-    #nbm{
-        background-size: %;
-    }
+
 }
