@@ -29,7 +29,7 @@ body{
     background-color: transparent;
     background-size: 100% 100%;
     background-repeat: no-repeat;
- background-attachment: fixed;
+    background-attachment: fixed;
 }
 
 #img4{
@@ -67,4 +67,10 @@ html{
     font: normal;
     position: relative;
     top: 200px;
+}
+
+@media screen and (max-width: 1024px) {
+    #img1, img3 {
+        background-attachment: scroll;
+    }
 }
