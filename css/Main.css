@@ -106,7 +106,7 @@ p{
 
 @media screen and (max-width: 1440px) {
     #img1, img3 {
-        background-attachment: scroll;
+        /*background-attachment: scroll;*/
     }
 
 }
