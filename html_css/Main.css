@@ -7,7 +7,8 @@
     border:0;
     font-family: 'Lora', serif;
     text-align: justify;
-    font-size: 15px;
+    font-size: 30px;
+    font-size-adjust: 
 }
 
 @font-face {
@@ -108,21 +109,21 @@ html{
 }
 
 #beartext{
-    position: relative;
-    margin-left: 3%;
-    padding-top:78%;
+    position: absolute;
+    left: 3%;
+    top:89%;
 }
 
 #PStext{
     position: absolute;
-    padding-left: 45%;
-    padding-top: 57%;
+    right: 15%;
+    top: 170%;
 }
 
 #infotext{
     position: absolute;
-    padding-top:119%; 
-    padding-left: 32%;
+    top:250%;
+    left: 34%;
 }
 @media screen and (max-width: 1440px) {
     #img1 {
