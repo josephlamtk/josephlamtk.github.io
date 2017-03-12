@@ -1,11 +1,11 @@
-
+/*<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">*/
 /*Setting the screen*/
 
 *{
     padding:0;
     margin:0;
     border:0;
-    font-family: "Bitstream Charter";
+    font-family: 'Lora', serif;
     text-align: justify;
     font-size: 15px;
 }
@@ -32,6 +32,7 @@ body{
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
 }
 
 #img2{
@@ -95,6 +96,7 @@ html{
     position: relative;
     left:7.5%;
     top: 5%;
+    position: fixed;
 }
 
 .Btext{
