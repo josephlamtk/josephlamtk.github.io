@@ -7,8 +7,8 @@
     border:0;
     font-family: 'Lora', serif;
     text-align: justify;
-    font-size: 30px;
-    font-size-adjust: 
+    font-size: 1.875em;
+    /*font-size-adjust: */
 }
 
 @font-face {
@@ -111,19 +111,20 @@ html{
 #beartext{
     position: absolute;
     left: 3%;
-    top:89%;
+    top:80%;
 }
 
 #PStext{
     position: absolute;
     right: 15%;
-    top: 170%;
+    top: 140%;
 }
 
 #infotext{
     position: absolute;
-    top:250%;
-    left: 34%;
+    top:200%;
+    left: 33%;
+    font-size: 1.3em;
 }
 @media screen and (max-width: 1440px) {
     #img1 {
