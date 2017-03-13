@@ -100,7 +100,7 @@ html{
     position: fixed;
 }
 
-.Btext{
+/*.Btext{
     color:#0e2d3c;
 }
 
@@ -125,7 +125,33 @@ html{
     top:200%;
     left: 33%;
     font-size: 1.3em;
+}*/
+
+#empty{
+    height: 830px;
+     /*background-color: pink;*/
 }
+
+#beartext{
+    font-size: 0.7em;
+    padding-top: 250px;
+    line-height: 300%;
+}
+
+#PStext{
+    color: white;
+    padding-top: 830px;
+    padding-left: 630px;
+    font-size: 0.7em;
+}
+
+#infotext{
+    padding-top: 800px;
+    padding-left: 430px;
+    font-size: 0.4em;
+}
+
+
 @media screen and (max-width: 1440px) {
     #img1 {
         background-attachment: scroll;

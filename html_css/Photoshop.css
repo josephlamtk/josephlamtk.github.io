@@ -32,7 +32,7 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    
+    z-index: -10;
 }
 
 #img2{
@@ -99,6 +99,16 @@ html{
     position: fixed;
 }
 
+.img_one{
+    background-image: url(../MyBlog/Ball.jpg);
+    background-size: 100% 100%;
+    z-index: 10;
+
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
 /*.Btext{
     color:#0e2d3c;
 }*/
@@ -124,6 +134,8 @@ html{
     padding-top:119%; 
     padding-left: 32%;
 }*/
+
+
 @media screen and (max-width: 1440px) {
     #img1 {
         background-attachment: scroll;
