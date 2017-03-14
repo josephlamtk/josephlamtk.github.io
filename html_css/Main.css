@@ -110,14 +110,20 @@ html{
     font-size: 4em;
     top: 430px;
     left: 110px;
+    width: 1000px;
+}
+
+#first_break, #third_break, #last_break{
+    display: none;
 }
 
 #PStext{
     position: relative;
     color: white;
     font-size: 4em;
-    top:2000px;
-    left: 1180px;
+    top:1900px;
+    left: 1200px;
+    width: 1000px;
     text-align: center;
 }
 
@@ -152,7 +158,8 @@ html{
         color: white;
         font-size: 2em;
         top:980px;
-        left: 580px;
+        left: 590px;
+        width: 500px;
     }
 
     #infotext{
@@ -221,6 +228,7 @@ html{
         display: block;
         top:260px;
         left:60px;
+        text-align: center;
        
     }
 
