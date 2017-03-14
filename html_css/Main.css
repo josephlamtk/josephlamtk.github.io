@@ -158,7 +158,7 @@ html{
         position: relative;
         color: #0e2d3c;
         font-size: 2em;
-        top: 1600px;
+        top: 1700px;
     }
 
 }
@@ -190,8 +190,8 @@ html{
     #infotext{
         position: relative;
         color: #0e2d3c;
-        font-size: 2em;
-        top: 1000px;
+        font-size: 1em;
+        top: 1020px;
     }
 
 }
