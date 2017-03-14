@@ -30,6 +30,7 @@ body{
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-attachment: scroll;
     
 }
 
@@ -97,165 +98,18 @@ html{
     position: fixed;
 }
 
-/*.Btext{
-    color:#0e2d3c;
-}
-
-.Wtext{
-    color:white;
-}
-
-#beartext{
-    position: absolute;
-    left: 3%;
-    top:80%;
-}
-
-#PStext{
-    position: absolute;
-    right: 15%;
-    top: 140%;
-}
-
-#infotext{
-    position: absolute;
-    top:200%;
-    left: 33%;
-    font-size: 1.3em;
-}*/
-
 #empty{
-    height: 830px;
-     /*background-color: pink;*/
+    position:relative;
+    padding-top: 1536px;
+
 }
 
 #beartext{
-    font-size: 0.7em;
-    padding-top: 250px;
-    line-height: 300%;
+    position: relative;
+    color: #0e2d3c;
+    font-size: 3em;
+    top: 430px;
+    left: 150px;
 }
 
-div#PStext{
-    color: white;
-    padding-top: 830px;
-    padding-left: 630px;
-    font-size: 0.7em;
-}
-
-#infotext{
-    padding-top: 790px;
-    font-size: 0.4em;
-}
-
-/*1440*/
-@media screen and (max-width: 1440px) {
-    #img1 {
-        background-attachment: scroll;
-    }
-
-}
-
-/*1280*/
-@media screen and (max-width: 1280px) {
-    #beartext{
-    font-size: 0.7em;
-    padding-top: 220px;
-    line-height: 300%;
-    }
-
-    #PStext{
-    color: white;
-    padding-top: 650px;
-    padding-left: 530px;
-    font-size: 0.7em;
-    }
-
-    #infotext{
-    padding-top: 670px;
-    font-size: 0.4em;
-    }
-
-}
-
-/*1024*/
-@media screen and (max-width: 1024px) {
-
-    #empty{
-    height: 800px;
-     /*background-color: pink;*/
-    }
-
-    #beartext{
-    font-size: 0.5em;
-    padding-top: 0px;
-    line-height: 300%;
-    }
-
-    #PStext{
-    color: white;
-    padding-top: 550px;
-    padding-left: 440px;
-    font-size: 0.5em;
-    }
-
-    #infotext{
-    padding-top: 570px;
-    font-size: 0.3em;
-    }
-
-}
-
-@media screen and (max-width: 768px) {
-
-    #empty{
-    height: 600px;
-     /*background-color: pink;*/
-    }
-
-    #beartext{
-    font-size: 0.4em;
-    padding-top: 0px;
-    line-height: 200%;
-    }
-
-    div#PStext{
-    color: white;
-    padding-top: 440px;
-    padding-left: 320px;
-    font-size: 0.4em;
-    }
-
-    #infotext{
-    padding-top: 410px;
-    font-size: 0.2em;
-    }
-
-}
-
-@media (max-width: 414px) {
-
-    #empty{
-    height: 290px;
-     /*background-color: pink;*/
-    }
-
-    #beartext{
-    font-size: 2px;
-    padding-top: 0px;
-    line-height: 150%;
-    }
-
-    div#PStext{
-    color: white;
-    padding-top: 250px;
-    padding-left: 150px;
-    font-size: 5px;
-    }
-
-    #infotext{
-    padding-top: 220px;
-    font-size: 0.2em;
-    }
-
-}
-
+#
