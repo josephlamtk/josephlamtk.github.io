@@ -6,9 +6,6 @@
     margin:0;
     border:0;
     font-family: 'Lora', serif;
-    text-align: justify;
-    font-size: 1.875em;
-    /*font-size-adjust: */
 }
 
 @font-face {
@@ -138,7 +135,7 @@ html{
     line-height: 300%;
 }
 
-#PStext{
+div#PStext{
     color: white;
     padding-top: 830px;
     padding-left: 630px;
@@ -146,15 +143,119 @@ html{
 }
 
 #infotext{
-    padding-top: 800px;
-    padding-left: 430px;
+    padding-top: 790px;
     font-size: 0.4em;
 }
 
-
+/*1440*/
 @media screen and (max-width: 1440px) {
     #img1 {
         background-attachment: scroll;
     }
 
 }
+
+/*1280*/
+@media screen and (max-width: 1280px) {
+    #beartext{
+    font-size: 0.7em;
+    padding-top: 220px;
+    line-height: 300%;
+    }
+
+    #PStext{
+    color: white;
+    padding-top: 650px;
+    padding-left: 530px;
+    font-size: 0.7em;
+    }
+
+    #infotext{
+    padding-top: 670px;
+    font-size: 0.4em;
+    }
+
+}
+
+/*1024*/
+@media screen and (max-width: 1024px) {
+
+    #empty{
+    height: 800px;
+     /*background-color: pink;*/
+    }
+
+    #beartext{
+    font-size: 0.5em;
+    padding-top: 0px;
+    line-height: 300%;
+    }
+
+    #PStext{
+    color: white;
+    padding-top: 550px;
+    padding-left: 440px;
+    font-size: 0.5em;
+    }
+
+    #infotext{
+    padding-top: 570px;
+    font-size: 0.3em;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+    #empty{
+    height: 600px;
+     /*background-color: pink;*/
+    }
+
+    #beartext{
+    font-size: 0.4em;
+    padding-top: 0px;
+    line-height: 200%;
+    }
+
+    div#PStext{
+    color: white;
+    padding-top: 440px;
+    padding-left: 320px;
+    font-size: 0.4em;
+    }
+
+    #infotext{
+    padding-top: 410px;
+    font-size: 0.2em;
+    }
+
+}
+
+@media (max-width: 414px) {
+
+    #empty{
+    height: 290px;
+     /*background-color: pink;*/
+    }
+
+    #beartext{
+    font-size: 2px;
+    padding-top: 0px;
+    line-height: 150%;
+    }
+
+    div#PStext{
+    color: white;
+    padding-top: 250px;
+    padding-left: 150px;
+    font-size: 5px;
+    }
+
+    #infotext{
+    padding-top: 220px;
+    font-size: 0.2em;
+    }
+
+}
+
