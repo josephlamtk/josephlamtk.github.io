@@ -219,6 +219,7 @@ html{
         top: 20px;
         left: -5px;
         word-spacing: -1.5px;
+        width: 200px;
     }
 
     #PStext{
@@ -227,7 +228,8 @@ html{
         font-size: 0.1em;
         display: block;
         top:260px;
-        left:60px;
+        left:145px;
+        width: 200px;
         text-align: center;
        
     }
