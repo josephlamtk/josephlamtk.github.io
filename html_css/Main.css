@@ -126,3 +126,35 @@ html{
     font-size: 3.5em;
     top: 3400px;
 }
+
+@media (max-width:1280px){
+    #empty{
+    position:relative;
+    padding-top: 768px;
+
+}
+
+#beartext{
+    position: relative;
+    color: #0e2d3c;
+    font-size: 2em;
+    top: 200px;
+    left: 60px;
+}
+
+#PStext{
+    position: relative;
+    color: white;
+    font-size: 2em;
+    top:980px;
+    left: 580px;
+}
+
+#infotext{
+    position: relative;
+    color: #0e2d3c;
+    font-size: 2em;
+    top: 1600px;
+}
+
+}
