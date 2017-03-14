@@ -7,7 +7,7 @@
     border:0;
     font-family: 'Lora', serif;
     text-align: justify;
-    font-size: 15px;
+    font-size: 0.7em;
 }
 
 @font-face {
@@ -99,14 +99,16 @@ html{
     position: fixed;
 }
 
+.tableimg{
+    height: 100%;
+    width: 100%;
+}
+
 .img_one{
-    background-image: url(../MyBlog/Ball.jpg);
+    background: url(../MyBlog/Bear_S.jpg) no-repeat;
     background-size: 100% 100%;
     z-index: 10;
-
-    background-color: transparent;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
 }
 
 /*.Btext{
