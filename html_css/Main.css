@@ -83,8 +83,8 @@ html{
     background-color: transparent;
     background-image: url(../MyBlog/menu.png);
     background-size:contain;
-    width: auto;
-    height: auto;
+    width: 50px;
+    height: 50px;
     margin: 10px;
     position: fixed;
     z-index: 10;
@@ -93,8 +93,8 @@ html{
 }
 .dropdown-menu{
     position: relative;
-    left:7.5%;
-    top: 5%;
+    left:3%;
+    top: 10px;
     position: fixed;
 }
 
@@ -107,9 +107,22 @@ html{
 #beartext{
     position: relative;
     color: #0e2d3c;
-    font-size: 3em;
+    font-size: 4em;
     top: 430px;
-    left: 150px;
+    left: 110px;
 }
 
-#
+#PStext{
+    position: relative;
+    color: white;
+    font-size: 4em;
+    top:2000px;
+    left: 1180px;
+}
+
+#infotext{
+    position: relative;
+    color: #0e2d3c;
+    font-size: 3.5em;
+    top: 3400px;
+}
