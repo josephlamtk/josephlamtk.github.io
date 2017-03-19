@@ -135,7 +135,43 @@ html{
 }
 /*End for 2560 1600px*/
 
+@media (max-width:1440px){
+    #empty{
+        position:relative;
+        padding-top: 468.8px;
 
+    }
+
+    #beartext{
+        position: relative;
+        color: #0e2d3c;
+        font-size: 2.5em;
+        top: 550px;
+        left: 50px;
+    }
+
+    #PStext{
+        position: relative;
+        color: white;
+        font-size: 2.5em;
+        top:1450px;
+        left: 440px;
+    }
+
+    #infotext{
+        position: relative;
+        color: #0e2d3c;
+        font-size: 2.5em;
+        top: 2250px;
+    }
+    .dropdown-menu{
+    position: relative;
+    left:5%;
+    top: 10px;
+    position: fixed;
+}
+
+}
 
 /*1280px*/
 @media (max-width:1280px){
@@ -219,7 +255,7 @@ html{
     border-radius: 0;
     border: none;
 }
-.dropdown-menu{
+    .dropdown-menu{
     position: relative;
     left:10%;
     top: 10px;
