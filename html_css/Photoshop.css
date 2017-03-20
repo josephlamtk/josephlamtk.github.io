@@ -32,7 +32,7 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    z-index: -10;
+    /*z-index: -10;*/
 }
 
 #img2{
@@ -98,6 +98,7 @@ html{
     top: 5%;
     position: fixed;
 }
+
 
 
 
