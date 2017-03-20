@@ -31,7 +31,7 @@
     background-color: transparent;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     z-index: -10;
 }
 
@@ -99,43 +99,13 @@ html{
     position: fixed;
 }
 
-.tableimg{
-    height: 100%;
-    width: 100%;
+
+
+.row div{
+    margin: 0;
+    top: 2500px;
 }
 
-.img_one{
-    background: url(../MyBlog/Bear_S.jpg) no-repeat;
-    background-size: 100% 100%;
-    z-index: 10;
-    background-attachment: fixed;
-}
-
-/*.Btext{
-    color:#0e2d3c;
-}*/
-
-/*.Wtext{
-    color:white;
-}
-
-#beartext{
-    position: relative;
-    margin-left: 3%;
-    padding-top:78%;
-}
-
-#PStext{
-    position: absolute;
-    padding-left: 45%;
-    padding-top: 57%;
-}
-
-#infotext{
-    position: absolute;
-    padding-top:119%; 
-    padding-left: 32%;
-}*/
 
 
 @media screen and (max-width: 1440px) {
