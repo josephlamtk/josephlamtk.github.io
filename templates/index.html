@@ -1,6 +1,7 @@
-{% extends 'template.html'%}
+{% extends 'template.html' %}
   {% block head %}
-  <link rel="stylesheet" type="text/css" href="css/Main.css">
+  {{super()}}
+  <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/Main.css')}}">
   {% endblock %}
 
   {% block body %}
@@ -9,7 +10,7 @@
   <button class="btn btn-primary dropdown-toggle" id="nbm"type="button" data-toggle="dropdown">
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
-    <li><a href="Photoshop.html">Photoshop</a></li>
+    <li><a href="{{url_for('photoshop')}}">Photoshop</a></li>
     <li><a href="#">Bear</a></li>
     <li><a href="#">Info</a></li>
   </ul>
