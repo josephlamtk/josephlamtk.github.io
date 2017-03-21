@@ -128,6 +128,37 @@ html{
     right: -100px;
 }
 /*end_second*/
+
+/*third*/
+#img_five, #img_six{
+    top: 600px;
+}
+
+
+#img_five{
+    left: -550px;
+}
+
+#img_six{
+    right: -100px;
+}
+/*end_third*/
+
+/*fourth*/
+#img_seven, #img_eight{
+    top: 800px;
+}
+
+
+#img_seven{
+    left: -550px;
+}
+
+#img_eight{
+    right: -100px;
+}
+/*end_fourth*/
+
 @media screen and (max-width: 1440px) {
     #img1 {
         background-attachment: scroll;
