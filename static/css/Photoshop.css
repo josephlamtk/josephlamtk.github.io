@@ -27,7 +27,7 @@
 }*/
 
 #img1{
-    background-image: url(../MyBlog/Pages.png);
+    background-image: url(../image/Pages.png);
     background-color: transparent;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@
 }*/
 
 #img4{
-    background-image: url(../MyBlog/Pages.4.jpg);
+    background-image: url(../image/Pages.4.jpg);
     background-color: transparent;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@ html{
 
 #nbm{
     background-color: transparent;
-    background-image: url(../MyBlog/menu.png);
+    background-image: url(../image/menu.png);
     background-size:contain;
     width: auto;
     height: auto;
@@ -110,13 +110,13 @@ html{
 }
 
 #img_one{
-    background-image: url(../MyBlog/Tree_S.jpg);
+    background-image: url(../image/Tree_S.jpg);
     background-size: 100% 100%;
     left: -550px;
 }
 
 #img_two{
-    background-image: url(../MyBlog/Grass_S.jpg);
+    background-image: url(../image/Grass_S.jpg);
     background-size: 100% 100%;
     right: -100px;
 }
