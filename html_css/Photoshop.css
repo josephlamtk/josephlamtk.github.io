@@ -99,14 +99,35 @@ html{
     position: fixed;
 }
 
-#row{
-}
-
+/*img_first_row*/
 #img_one, #img_two{
+    top: 200px;
 }
 
 
+#img_one{
+    left: -550px;
+}
 
+#img_two{
+    right: -100px;
+}
+/*end_first*/
+
+/*second*/
+#img_three, #img_four{
+    top: 400px;
+}
+
+
+#img_three{
+    left: -550px;
+}
+
+#img_four{
+    right: -100px;
+}
+/*end_second*/
 @media screen and (max-width: 1440px) {
     #img1 {
         background-attachment: scroll;
