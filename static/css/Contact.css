@@ -1,60 +1,17 @@
-/*<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">*/
-/*Setting the screen*/
 
 *{
     padding:0;
     margin:0;
     border:0;
-    font-family: 'Lora', serif;
-    text-align: justify;
-    font-size: 0.7em;
-}
-
-@font-face {
-    font-family: myFirstFont;
-    src: url(sansation_bold.woff);
-    font-weight: bold;
 }
 
 body{
+    background-color: grey;
     width: 100%;
     height: 100%;
+    color: white;
 }
 
-#img1{
-    background-image: url(../image/Pages.png);
-    background-color: transparent;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    z-index: -10;
-}
-
-/*#img2{
-    background-image: url(../MyBlog/Pages.2.jpg);
-    background-color: transparent;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-#img3{
-    background-image: url(../MyBlog/Pages.2.jpg);
-    background-color: transparent;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-}*/
-
-#img4{
-    background-image: url(../image/Pages.4.jpg);
-    background-color: transparent;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
-.front div{
-    padding-top:60%;
-}
 .front{
     list-style-type: none;
 
@@ -68,159 +25,25 @@ body{
     z-index: -10;
 }
 
-/*For all images*/
-html{
-    width: 100%;
-    height: 100%;
-}
-
-
-#nbm{
+#img1{
+    background-image: url(../image/Contact.png);
     background-color: transparent;
-    background-image: url(../image/menu.png);
-    background-size:contain;
-    width: auto;
-    height: auto;
-    margin: 10px;
-    position: fixed;
-    z-index: 10;
-    border-radius: 0;
-    border: none;
-}
-.dropdown-menu{
-    position: relative;
-    left:7.5%;
-    top: 5%;
-    position: fixed;
-}
-
-/*img_first_row*/
-.row{
-    padding: 20px;    
-}
-#row_templ{
-    height: 400px;
-}
-#row_templ div{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     height: 100%;
-}
-
-
-#img_one{
-    background-image: url(../image/Tree_S.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
     width: 100%;
-    height: 25%;
+    
 }
 
-#img_two{
-    background-image: url(../image/Grass_S.jpg);
-    background-size: contain;
+#img2{
+    background-image: url(../image/Contact.jpg);
+    background-color: transparent;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    background-position: center;
+    background-attachment: scroll;
+    height: 100%;
     width: 100%;
-    height: 25%;
-}
-/*end_first*/
-
-/*second*/
-#img_three{
-    background-image: url(../image/Flower_S.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
+    
 }
 
-#img_four{
-    background-image: url(../image/Chair_S.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
-}
-/*end_second*/
-
-/*third*/
-
-#img_five{
-    background-image: url(../image/Clock_S.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
-}
-
-#img_six{
-    background-image: url(../image/Ball.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
-}
-/*end_third*/
-
-/*fourth*/
-
-#img_seven{
-    background-image: url(../image/R_Tree_S.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
-}
-
-#img_eight{
-    background-image: url(../image/Bear_S.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
-}
-
-/*end_fourth*/
-
-/*Footer*/
-#img_nine{
-    background-image: url(../image/footer.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
-}
-
-#img_ten{
-    background-image: url(../image/Japan_S.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
-}
-
-#img_eleven{
-    background-image: url(../image/Copenhagen_S.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 25%;
-}
-/*end_footer*/
-
-
-@media screen and (max-width: 1440px) {
-    #img1 {
-        background-attachment: scroll;
-    }
-
-}
