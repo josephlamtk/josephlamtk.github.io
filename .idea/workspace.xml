@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2d7ccf89-f5e6-4c28-b7f8-8ea20cf5be21" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comments.db" afterPath="$PROJECT_DIR$/comments.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/Contact.css" afterPath="$PROJECT_DIR$/static/css/Contact.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/Main.css" afterPath="$PROJECT_DIR$/static/css/Main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/Photoshop.css" afterPath="$PROJECT_DIR$/static/css/Photoshop.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Photoshop.html" afterPath="$PROJECT_DIR$/templates/Photoshop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/form_wtf.html" afterPath="$PROJECT_DIR$/templates/form_wtf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/flask_sqlite.html" afterPath="$PROJECT_DIR$/templates/flask_sqlite.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/josephlamtk.github.io$josephlamtk_github_io.coverage" NAME="josephlamtk.github.io Coverage Results" MODIFIED="1491524844815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/josephlamtk.github.io$josephlamtk_github_io.coverage" NAME="josephlamtk.github.io Coverage Results" MODIFIED="1491525512266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
