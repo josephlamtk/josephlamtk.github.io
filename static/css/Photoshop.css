@@ -79,8 +79,8 @@ html{
     background-color: transparent;
     background-image: url(../image/menu.png);
     background-size:contain;
-    width: auto;
-    height: auto;
+    width: 40px;
+    height: 40px;
     margin: 10px;
     position: fixed;
     z-index: 10;
@@ -89,8 +89,8 @@ html{
 }
 .dropdown-menu{
     position: relative;
-    left:7.5%;
-    top: 5%;
+    left:3%;
+    top: 10px;
     position: fixed;
 }
 

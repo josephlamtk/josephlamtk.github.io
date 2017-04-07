@@ -2,57 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7ccf89-f5e6-4c28-b7f8-8ea20cf5be21" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask-0.12.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Jinja2-2.9.5.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools-34.3.2.dist-info/zip-safe" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comments.db" afterPath="$PROJECT_DIR$/comments.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/Contact.css" afterPath="$PROJECT_DIR$/static/css/Contact.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/Main.css" afterPath="$PROJECT_DIR$/static/css/Main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/Photoshop.css" afterPath="$PROJECT_DIR$/static/css/Photoshop.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Photoshop.html" afterPath="$PROJECT_DIR$/templates/Photoshop.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/form_wtf.html" afterPath="$PROJECT_DIR$/templates/form_wtf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/template.html" afterPath="$PROJECT_DIR$/templates/template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask_Bootstrap-3.3.7.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask_Bootstrap-3.3.7.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask_WTF-0.14.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Flask_WTF-0.14.2.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/MarkupSafe-1.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/MarkupSafe-1.0.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/WTForms-2.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/WTForms-2.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Werkzeug-0.12.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/Werkzeug-0.12.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/click-6.7.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/click-6.7.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/dominate-2.3.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/dominate-2.3.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/flask/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/flask/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/flask/app.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/flask/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/flask/cli.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/flask/cli.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/flask/config.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/flask/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/jinja2/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/jinja2/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/jinja2/runtime.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/jinja2/runtime.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/packaging-16.8.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/packaging-16.8.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools/dist.py" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/setuptools/dist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/wheel-0.29.0.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/josephlamtk.github.io$josephlamtk_github_io.coverage" NAME="josephlamtk.github.io Coverage Results" MODIFIED="1491514639527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/josephlamtk.github.io$josephlamtk_github_io.coverage" NAME="josephlamtk.github.io Coverage Results" MODIFIED="1491524844815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -97,12 +53,21 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-              <folding />
+              <folding>
+                <marker date="1491524792000" expanded="true" signature="579:749" ph="..." />
+                <marker date="1491524792000" expanded="true" signature="602:740" ph="..." />
+                <marker date="1491524792000" expanded="true" signature="821:1547" ph="..." />
+                <marker date="1491524792000" expanded="true" signature="865:912" ph="..." />
+                <marker date="1491524792000" expanded="true" signature="959:1076" ph="..." />
+                <marker date="1491524792000" expanded="true" signature="1121:1368" ph="..." />
+                <marker date="1491524792000" expanded="true" signature="1151:1357" ph="..." />
+                <marker date="1491524792000" expanded="true" signature="1415:1522" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -119,18 +84,18 @@
       <file leaf-file-name="form_wtf.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/form_wtf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="75">
+              <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contact.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Contact.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/Contact.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="-285">
+              <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -531,10 +496,10 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39871383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39871383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -563,7 +528,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
+          <folding>
+            <marker date="1491524792000" expanded="true" signature="579:749" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="602:740" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="821:1547" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="865:912" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="959:1076" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1121:1368" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1151:1357" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1415:1522" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -620,7 +594,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1491524792000" expanded="true" signature="579:749" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="602:740" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="821:1547" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="865:912" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="959:1076" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1121:1368" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1151:1357" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1415:1522" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -628,7 +611,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1491524792000" expanded="true" signature="579:749" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="602:740" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="821:1547" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="865:912" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="959:1076" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1121:1368" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1151:1357" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1415:1522" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -636,6 +628,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <marker date="1491524792000" expanded="true" signature="579:749" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="602:740" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="821:1547" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="865:912" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="959:1076" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1121:1368" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1151:1357" ph="..." />
+            <marker date="1491524792000" expanded="true" signature="1415:1522" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/form_wtf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/Contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -653,22 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form_wtf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -678,14 +687,6 @@
             <marker date="1491510180000" expanded="true" signature="1040:1096" ph="INSERT INTO comments_table... " />
             <marker date="1491510180000" expanded="true" signature="1434:1462" ph="SELECT * FRO... comments_table" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/Contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>

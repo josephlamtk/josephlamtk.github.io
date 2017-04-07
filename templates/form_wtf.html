@@ -1,26 +1,29 @@
-{% include 'template.html'%}
-{% extends 'bootstrap/base.html' %}
-{% import 'bootstrap/wtf.html' as wtf %}
+{% include 'template.html'%} {% extends 'bootstrap/base.html' %} {% import 'bootstrap/wtf.html' as wtf %} {% block head %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/Contact.css')}}"> {% endblock %} {% block body %}
 
-{% block head %}
-<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/Contact.css')}}">
-{% endblock %}
-
-{% block body %}
-
-  <div id="image">
-    <ul class="front">
-      <div id="img1"><li></div>
-      <div id="img2"><li></div>
-    </ul>
+ <div class="dropdown">
+  <button class="btn btn-primary dropdown-toggle" id="nbm"type="button" data-toggle="dropdown">
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    <li><a href="{{url_for('photoshop')}}">Photoshop</a></li>
+    <li><a href="{{url_for('send_static')}}">Home</a></li>
+  </ul>
   </div>
-  
-    <div class="container">
-        <form action method="post" class="from" role="form">
-            {{ form.csrf_token }}
-            {{ wtf.form_field(form.name) }}
-            {{ wtf.form_field(form.comments) }}
-            {{ wtf.form_field(form.submit) }}
-        </form>
+
+<div class="container-fluid" id="back">
+    <div class="row" id="row">
+        <div class="col-md-12 text-center" id="img1">
+        </div>
     </div>
+    <div class="row" id="row">
+        <div class="col-md-12 text-center" id="img2">
+            <div class="container" id="fr">
+                <form action method="post" class="from" role="form">
+                    {{ form.csrf_token }} {{ wtf.form_field(form.name) }} {{ wtf.form_field(form.comments) }} {{ wtf.form_field(form.submit)
+                    }}
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
 {% endblock %}
